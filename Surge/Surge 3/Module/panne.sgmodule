@@ -6,7 +6,6 @@
 SurgePro_ReloadProfile = script-name=SurgePro_ReloadProfile,update-interval=1
 # 节假日查询
 timecard = script-name=timecard,update-interval=3600
-疫情统计 = script-name=疫情统计, title=新冠疫情查询, content=请刷新, update-interval=600
 
 #流量统计
 TrafficStatistics = script-name=TrafficStatistics,update-interval=1
