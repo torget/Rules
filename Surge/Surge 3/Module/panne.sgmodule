@@ -14,9 +14,6 @@ net-info-panel=title="网络状态",content="请刷新",style=info,script-name=n
 
 net_info_ip=title=网络状态,style=info,script-name=net_info_ip,update-interval=1
 
-#网络详情
-NET_info = script-name=NET_info,update-interval=1
-
 #Netflix查询
 nf_check = script-name=nf_check, title="Netflix 解锁检测", content="请刷新", update-interval=36000
 #Disney查询
