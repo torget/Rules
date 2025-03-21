@@ -1,0 +1,92 @@
+#!name=Cryptocurrency Rules
+#!desc=Cryptocurrency related domains ruleset for Surge
+#!author=Monica
+#!homepage=https://github.com
+#!created=2025-03-21
+#!updated=2025-03-21
+
+# === Cryptocurrency Exchanges ===
+# Binance
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,binancefuture.com
+# Coinbase
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coinbase.pro
+DOMAIN-SUFFIX,cbhq.net
+# OKX
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+# Huobi
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,huobigroup.com
+# Other Exchanges
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,ftx.com
+
+# === Wallets & DeFi ===
+# MetaMask
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,infura.io
+# Other Wallets
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,ledger.com
+DOMAIN-SUFFIX,trezor.io
+DOMAIN-SUFFIX,myetherwallet.com
+# DeFi Platforms
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,aave.com
+DOMAIN-SUFFIX,compound.finance
+DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,sushi.com
+
+# === Blockchain Explorers ===
+# Ethereum
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,ethereum.org
+# BSC
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,bnbchain.org
+# Other Networks
+DOMAIN-SUFFIX,polygonscan.com
+DOMAIN-SUFFIX,solscan.io
+DOMAIN-SUFFIX,blockchain.info
+DOMAIN-SUFFIX,blockchair.com
+DOMAIN-SUFFIX,arbitrum.io
+DOMAIN-SUFFIX,optimism.io
+
+# === Market Data & News ===
+# Price Tracking
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,cryptocompare.com
+DOMAIN-SUFFIX,tradingview.com
+# News & Information
+DOMAIN-SUFFIX,cointelegraph.com
+DOMAIN-SUFFIX,coindesk.com
+DOMAIN-SUFFIX,bitcoinmagazine.com
+DOMAIN-SUFFIX,decrypt.co
+DOMAIN-SUFFIX,theblock.co
+
+# === NFT Platforms ===
+DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,rarible.com
+DOMAIN-SUFFIX,niftygateway.com
+DOMAIN-SUFFIX,blur.io
+
+# === Development & APIs ===
+DOMAIN-SUFFIX,web3.js.org
+DOMAIN-SUFFIX,ethers.org
+DOMAIN-SUFFIX,alchemy.com
+DOMAIN-SUFFIX,moralis.io
+DOMAIN-SUFFIX,chainlink.com
+
+# === IPFS Gateways ===
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,pinata.cloud
+DOMAIN-SUFFIX,infura-ipfs.io
